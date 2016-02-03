@@ -1,0 +1,14 @@
+section.login{background-color: #4C4C4C;}
+section.login > div.box{
+    background-color: rgb(0,0,0);
+    background-image: url(../../public/img/loading.gif);background-size: 100px 100px; background-position: center center;
+    background-repeat: no-repeat;
+    width: 8.57rem;
+    height: 8.57rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: #FFFFFF;
+    -webkit-box-align: end;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}

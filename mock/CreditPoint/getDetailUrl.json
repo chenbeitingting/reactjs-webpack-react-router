@@ -1,0 +1,10 @@
+{
+  "respCode": "1000",
+  "respMsg": "取得资格",
+  "data": {
+    "state": "0",
+    "point": 800,
+    "pointDescribe": "信用良好"
+  },
+  "userStatus": "1"
+}
